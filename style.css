@@ -1179,7 +1179,7 @@ nav{
 
 #subtitulocaja{
     font-size: 14px;
-    margin-top: 104px;
+    margin-top: 137px;
     padding-left: 140px;
     -webkit-transform: rotate(-90deg)
 }
@@ -1193,7 +1193,7 @@ nav{
 
 #subtitulocaja3{
     font-size: 14px;
-    margin-top: 35px;
+    margin-top: 73px;
     padding-left: 74px;
     -webkit-transform: rotate(-90deg)
 }
@@ -1209,6 +1209,13 @@ nav{
     font-size: 14px;
     margin-top: 124px;
     padding-left: 125px;
+    -webkit-transform: rotate(-90deg)
+}
+
+#subtitulocaja6{
+    font-size: 14px;
+    margin-top: 30px;
+    padding-left: 61px;
     -webkit-transform: rotate(-90deg)
 }
 
@@ -1235,6 +1242,7 @@ nav{
     /* background-color: orange;*/
     height: auto;
     margin-top: 21vh;
+    margin-left: 100px;
     display: Flex;
     flex-flow: row;
     align-items: flex-start;
@@ -1265,9 +1273,9 @@ nav{
     flex-direction: column;
     align-items: flex-end;
     width: 300px;
-    right: -94px;
+    right: -106px;
     position: relative;
-    top:-226px
+    top:-250px
 }
 
 .container-photo2{
@@ -1309,7 +1317,8 @@ nav{
     flex-direction: column;
     align-items: flex-start;
     position:relative;
-    top: -60px
+    top: -110px;
+    left: -102px;
 }
 
 .squarefondo3 {
@@ -1384,6 +1393,15 @@ nav{
     position:relative;
     top: -116px;
     left: 103px;
+}
+
+.sextacaja{
+    display:flex;
+    flex-direction: column;
+    align-items: flex-end;
+    position:relative;
+    top: -61px;
+    left: 55px;
 }
 
 
