@@ -1179,7 +1179,7 @@ nav{
 
 #subtitulocaja{
     font-size: 14px;
-    margin-top: 137px;
+    margin-top: 104px;
     padding-left: 140px;
     -webkit-transform: rotate(-90deg)
 }
@@ -1193,7 +1193,7 @@ nav{
 
 #subtitulocaja3{
     font-size: 14px;
-    margin-top: 73px;
+    margin-top: 35px;
     padding-left: 74px;
     -webkit-transform: rotate(-90deg)
 }
@@ -1212,13 +1212,6 @@ nav{
     -webkit-transform: rotate(-90deg)
 }
 
-#subtitulocaja6{
-    font-size: 14px;
-    margin-top: 30px;
-    padding-left: 61px;
-    -webkit-transform: rotate(-90deg)
-}
-
 #photoyback{
     display:flex;
     flex-flow: column; 
@@ -1229,7 +1222,7 @@ nav{
 
 .container3{
     /* background-color: rgb(25, 0, 255);*/
-    width: 89vw;
+    width: 105vw;
     height: auto;
     margin-top: 21vh;
     display: Flex;
@@ -1242,7 +1235,6 @@ nav{
     /* background-color: orange;*/
     height: auto;
     margin-top: 21vh;
-    margin-left: 100px;
     display: Flex;
     flex-flow: row;
     align-items: flex-start;
@@ -1273,9 +1265,9 @@ nav{
     flex-direction: column;
     align-items: flex-end;
     width: 300px;
-    right: -106px;
+    right: -94px;
     position: relative;
-    top:-250px
+    top:-226px
 }
 
 .container-photo2{
@@ -1317,8 +1309,7 @@ nav{
     flex-direction: column;
     align-items: flex-start;
     position:relative;
-    top: -110px;
-    left: -102px;
+    top: -60px
 }
 
 .squarefondo3 {
@@ -1393,15 +1384,6 @@ nav{
     position:relative;
     top: -116px;
     left: 103px;
-}
-
-.sextacaja{
-    display:flex;
-    flex-direction: column;
-    align-items: flex-end;
-    position:relative;
-    top: -61px;
-    left: 55px;
 }
 
 
@@ -3560,7 +3542,7 @@ nav{
         display: flex;
         flex-flow: column;
         width: 80vw;
-        height: 392vh;
+        height: 415vh;
         /* background-color: orange */
     }
 
@@ -3693,9 +3675,9 @@ nav{
 #photoyback{
     display:flex;
     flex-flow: column; 
-    margin-top: 87px;
+    margin-top: 54px;
     margin-left: 0vw;
-    height: 54vh;
+    height: 51vh;
 }
 
 .container3{
@@ -3752,7 +3734,7 @@ nav{
     flex-direction: column;
     align-items: flex-end;
     top: -17vh;
-    right: -10.3vh;
+    right: -10vh;
 
 }
 
@@ -3761,7 +3743,7 @@ nav{
     flex-flow: column;
     margin-left: 0vw;
     height: 300px;
-    margin-top: -64px;
+    margin-top: -49px;
 }
 
 .segundacaja{
@@ -3794,7 +3776,7 @@ nav{
     display:flex;
     flex-flow: column;
     margin-left: 0vw;
-    margin-top: 2vh;
+    margin-top: 5vh;
 }
 
   .terceracaja{
@@ -3819,7 +3801,7 @@ nav{
     width: 59vw;
     height: auto;
     margin-left: 8vw;
-    margin-top: 12vh;
+    margin-top: 8vh;
 }
 
 .squarefondo4 {
